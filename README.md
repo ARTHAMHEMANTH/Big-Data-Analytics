@@ -14,7 +14,7 @@ A collection of PySpark projects and notebooks demonstrating key techniques in b
 | `4.Basic_Operations_on_PySpark_DataFrames` | Illustrative basic DataFrame operations (select, filter, etc.) |
 | `5.Data_Sampling_in_PySpark_DataFrames` | Techniques and examples of sampling large datasets |
 | `6.Performing_Analytical_Operations_in_PySpark` | Analytical tasks (aggregations, grouping, window operations) |
-| `7.Real-time_Vehicle_Registration_Data_Analytics` | Comprehensive analysis of vehicle registration data across India |
+| `7.Vehicle Registration Data Analytics(mini project)` | Comprehensive analysis of vehicle registration data across India |
 
 ## 🚀 Purpose & Goals
 
