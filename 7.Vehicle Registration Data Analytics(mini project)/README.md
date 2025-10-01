@@ -6,6 +6,7 @@ Comprehensive analysis of vehicle registration data across India, examining tren
 
 ## 🎯 Analysis Objectives
 
+
 ### Dataset Overview
 - Analyze vehicle registration data with 1,000 records across 8 features
 - Examine comprehensive dataset structure and characteristics
